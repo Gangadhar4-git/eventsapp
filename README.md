@@ -1,2 +1,2 @@
-# eventsapp
-AWS test
+# eventsappstart
+This is a simple events app
